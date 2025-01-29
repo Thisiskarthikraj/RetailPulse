@@ -9,6 +9,7 @@ An all-in-one solution for managing e-commerce operations. Designed to streamlin
 - **Admin** -   can manage products,categories and users
 - **User**  -   Secured OTP verfication to safe guard information    user data. User can add to wishlist, cart and order products.  
 - **Two-Factor**-twilio
+  ----------------------------
  
 
 
